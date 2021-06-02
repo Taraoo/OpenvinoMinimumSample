@@ -1,0 +1,4 @@
+﻿  ソース.cpp
+ソース.obj : error LNK2001: 外部シンボル "public: __thiscall cv::dnn::dnn4_v20201117::Net::~Net(void)" (??1Net@dnn4_v20201117@dnn@cv@@QAE@XZ) は未解決です
+ソース.obj : error LNK2001: 外部シンボル "class cv::dnn::dnn4_v20201117::Net __cdecl cv::dnn::dnn4_v20201117::readNetFromModelOptimizer(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?readNetFromModelOptimizer@dnn4_v20201117@dnn@cv@@YA?AVNet@123@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) は未解決です
+C:\Users\81805\source\repos\Project1\Release\Project1.exe : fatal error LNK1120: 2 件の未解決の外部参照

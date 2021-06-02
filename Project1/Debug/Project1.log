@@ -1,0 +1,6 @@
+﻿ソース.obj : error LNK2019: 未解決の外部シンボル "public: __thiscall cv::dnn::dnn4_v20201117::Net::~Net(void)" (??1Net@dnn4_v20201117@dnn@cv@@QAE@XZ) が関数 _main で参照されました
+ソース.obj : error LNK2019: 未解決の外部シンボル "class cv::dnn::dnn4_v20201117::Net __cdecl cv::dnn::dnn4_v20201117::readNetFromModelOptimizer(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?readNetFromModelOptimizer@dnn4_v20201117@dnn@cv@@YA?AVNet@123@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) が関数 _main で参照されました
+C:\Program Files (x86)\Intel\openvino_2021.2.185\opencv\lib\opencv_dnn451.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
+C:\Program Files (x86)\Intel\openvino_2021.2.185\opencv\lib\opencv_core451.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
+C:\Program Files (x86)\Intel\openvino_2021.2.185\opencv\lib\opencv_imgproc451.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
+C:\Users\81805\source\repos\Project1\Debug\Project1.exe : fatal error LNK1120: 2 件の未解決の外部参照
